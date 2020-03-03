@@ -6,6 +6,8 @@
 
 ### Second Model Results
 
+### Third Model Results
+
 Data Analysis on Video Game Sales.
 
 ## About
