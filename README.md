@@ -2,9 +2,9 @@
 
 ### Important Visualizations
 
-### First Model Results
+### XGBoost Results
 
-### Second Model Results
+### Random Forest Results
 
 ### Third Model Results
 
